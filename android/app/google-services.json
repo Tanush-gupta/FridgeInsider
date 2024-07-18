@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "725327738963",
+    "firebase_url": "https://fridge-insider-default-rtdb.firebaseio.com",
+    "project_id": "fridge-insider",
+    "storage_bucket": "fridge-insider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725327738963:android:31643af871faccee51aea6",
+        "android_client_info": {
+          "package_name": "com.antriksh01.FridgeInsider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725327738963-eqc2qlq6k2v3637shfo5a36th8rgpjsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antriksh01.FridgeInsider",
+            "certificate_hash": "ea8a6597a0254b9033127f4ab5d4d087a438e1ad"
+          }
+        },
+        {
+          "client_id": "725327738963-ngsk6u9vcjsl9t1p22c3821huf0frk3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.antriksh01.FridgeInsider",
+            "certificate_hash": "dec61b40b1b062fc17e2f567a41740731f6addb5"
+          }
+        },
+        {
+          "client_id": "725327738963-s1sedj4i2ap1ovp98gluo4oic0ri7c04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhGrMdyGQ9A_didlPqGs9SKNJgqScyLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725327738963-rrp0m2n5qlqe4oee7653l97rscc0ol9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725327738963:android:edb05093344cfe7151aea6",
+        "android_client_info": {
+          "package_name": "com.fridgeinsider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725327738963-60tjr8o3vusjginp5ms5908dnqi6m9so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fridgeinsider",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "725327738963-s1sedj4i2ap1ovp98gluo4oic0ri7c04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqhGrMdyGQ9A_didlPqGs9SKNJgqScyLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725327738963-rrp0m2n5qlqe4oee7653l97rscc0ol9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
